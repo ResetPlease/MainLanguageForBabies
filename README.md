@@ -1,1 +1,3 @@
 # MainLanguageForBabies
+##Types:
+<soon...>
